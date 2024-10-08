@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mariana! 
-- 👀 I’m interested in programming, writing, drawing, videogames, movies
-- 🌱 I’m currently learning c++, gamemaker
+- 👀 I’m interested in programming, writing, drawing, videogames and movies
+- 🌱 I’m currently learning c++ and gamemaker
 - 😄 Pronouns: she/her
 
 <!---
