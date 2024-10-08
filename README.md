@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariana-im
+- 👋 Hi, I’m Mariana! 
 - 👀 I’m interested in programming, writing, drawing, videogames, movies
 - 🌱 I’m currently learning c++, gamemaker
 - 😄 Pronouns: she/her
